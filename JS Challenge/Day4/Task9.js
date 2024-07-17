@@ -5,4 +5,3 @@ function Print1to10(){
       }
     }
     Print1to10()
-    
