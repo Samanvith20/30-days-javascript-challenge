@@ -9,22 +9,29 @@ Activity 4: Logical Operators
 Activity 5: Ternary Operators
 Activity 1: Arithmetic Operators
 
-Learn how to use basic arithmetic operators such as +, -, \*, /, and % to perform mathematical operations.
 
-Activity 2: Assignment Operators
+Day 2 : Operators
 
-Understand how to use assignment operators like += and -= to modify the value of a variable by adding or subtracting a number.
+// Activity 1 : Arithmetic Operators
+// Task1 > Write program to add two numbers and log the result to the console
+// Task2 > Write program to substract two numbers and log the result to the console
+// Task3 > Write program to multiply two numbers and log the result to the console
+// Task4 > Write program to divide two numbers and log the result to the console
+// Task5 > Write program to find remainder when one number is divided to other and log the result to the console
 
-Activity 3: Comparison Operators
+// Activity 2 : Assignment Operators
+// Task6 > use += operator to add a number to a variable and log the result to the console
+// Task7 > use -= operator to substract a number to a variable and log the result to the console
 
-Explore the use of comparison operators like >, <, >=, <=, ==, and === to compare two values and evaluate conditions.
+// Activity 3 : Comparison Operators
+// Task8 > write a program to compare two numbers using > and < and log the result to the console
+// Task9 > write a program to compare two numbers using >= and <= and log the result to the console
+// Task10 > write a program to compare two numbers using == and === and log the result to the console
 
-Activity 4: Logical Operators
+//Activity 4 : Logical Operators
+// Task11 > write a program that uses the && operator to combine two conditions and log the result to the console
+// Task12 > write a program that uses the || operator to combine two conditions and log the result to the console  
+// Task13 > write a program that uses the ! operator to negate a condition and log the result to console
 
-Learn how to combine multiple conditions using logical operators && (AND) and || (OR) to create complex conditional statements.
-
-Discover how to use the logical NOT operator ! to negate a condition and reverse its truthiness.
-
-Activity 5: Ternary Operators
-
-Understand how to use the ternary operator ? : to simplify conditional expressions and make your code more concise and readable.
+//Activity 5 : Ternary Operators
+// Task14 > write a program that uses the ternary operator to check if a number is positive or negative and log the result to the console  
