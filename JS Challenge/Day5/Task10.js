@@ -1,3 +1,5 @@
+
+
 const applyFunctions = (fn1, fn2, value) => fn2(fn1(value));
 
 const addTwo = (x) => x + 2;

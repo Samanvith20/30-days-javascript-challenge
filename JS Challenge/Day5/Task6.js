@@ -1,3 +1,4 @@
+
 const containsCharacters = (str, chars) => {
     //Method1
     if (str.includes(chars)) {
@@ -5,13 +6,13 @@ const containsCharacters = (str, chars) => {
     }
 
    //Method2
-    for (let i = 0; i < chars.length; i++) {
-        if (!str.includes(chars[i])) {
-            return false;
-        }
+    for (let i = 0; i < str.length; i++) {
+        if(str[i]===chars[i]){
+            return true;
     }
     return true;
 };
+}
 
 const str = "Hello, World!";
 const chars = "Helo";
