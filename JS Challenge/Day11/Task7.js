@@ -1,3 +1,5 @@
+
+
 const fetchData=async()=>{
     try{
       const data=await fetch("https://api.dictionaryapi.dev/api/v2/entries/en/hello")
