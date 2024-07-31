@@ -9,7 +9,7 @@ The 30 Days JavaScript Challenge is designed by Hitesh Choudhary to help you mas
 🚀 How to Use This Repository
 🔍 Explore the Code: Navigate through the folders to find the day's task and solution.
 
-📝 Learn from Comments: Each solution file (solution.js) includes comments that explain the code and the concepts behind it.
+📝 Learn from Comments: Each solution  was present as task includes comments that explain the code and the concepts behind it.
 
 💪 Practice: Try to solve the tasks on your own before looking at the solutions.
 
